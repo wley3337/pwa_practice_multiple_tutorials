@@ -8,3 +8,5 @@
 * Issues atm: serviceworker registers from index.html, but does not seem to register under Lamplight or console.log the sequence of clearing the cache even after a full copy/paste instead of codeing along. -need to investigate serviceworkers more. 
 
 2. /pwa-app follows [this tutorial](https://dzone.com/articles/a-step-by-step-tutorial-for-developing-a-progressi)
+
+* need to investigage firebase hosting service. There is a guide [here](https://www.youtube.com/watch?v=suCBsEI-Lo0)
