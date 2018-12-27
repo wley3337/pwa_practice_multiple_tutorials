@@ -10,3 +10,6 @@
 2. /pwa-app follows [this tutorial](https://dzone.com/articles/a-step-by-step-tutorial-for-developing-a-progressi)
 
 * need to investigage firebase hosting service. There is a guide [here](https://www.youtube.com/watch?v=suCBsEI-Lo0)
+
+3. /airhorn-google-practice follows [Google Service Worker Tutorial](https://codelabs.developers.google.com/codelabs/offline/#1)
+and is just the files I have changed with the license.
